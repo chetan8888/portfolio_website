@@ -12,6 +12,7 @@ export const skills = {
         "CSS",
         "jQuery",
         "Bootstrap",
+        "Git",
         "GitHub",
         "MongoDB",
     ],
@@ -21,13 +22,15 @@ export const skills = {
         "Frontend",
         "Backend",
         "Design",
+        "Database Management"
     ],
     interpersonalSkills: [
         "Communication",
         "Teaching",
         "Time Management",
         "Leadership",
-        "Management"
+        "Management",
+        "Presentations"
     ]
 }
 
